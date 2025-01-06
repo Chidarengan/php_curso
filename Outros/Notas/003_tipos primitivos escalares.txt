@@ -1,0 +1,5 @@
+$sobrenome - string (sequencia de letras numeros e simbulos, sempre representadas entre aspas)
+$idade - int ou integer (um valor numerico inteiro, sem a parte decimal, sem virgula)
+$peso - float, double (ou real. dependendo da versao se for antiga, n existe mais) - um vlor numerico real q vem com a parte decimal depois do ponto flutuante
+$casado bool ou boolean um valor que aceita apenas os valores verdadeiro ou falso. 
+

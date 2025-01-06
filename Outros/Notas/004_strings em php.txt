@@ -1,0 +1,4 @@
+double quoted - aspas duplas  
+no php pra concatenar (juntar?) voce usa o . (e nao o +) existe a interpretaçao do conteudo da string
+ex: "php \u{1F418}" ele vai traduzir pra um elefantinho
+mas com single quoted nao vai. 

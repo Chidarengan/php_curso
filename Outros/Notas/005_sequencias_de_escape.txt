@@ -1,0 +1,6 @@
+escape sequences
+\n - nova linha (pula uma linha)
+\t - tabulaçao horizontal (nao sei)
+\\ mostra barra invertida  
+\$ mostra o sinal de cifrao
+\u{} codepoint unicode (emojis)

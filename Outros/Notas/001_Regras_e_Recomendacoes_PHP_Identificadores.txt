@@ -1,0 +1,22 @@
+Regras para nomes identificadores
+
+Variáveis sempre começam com o símbolo $
+O segundo pode ser letra ou o símbolo _
+Aceita caracteres [a-z], [A-Z], [0-9] e [_]
+Aceita caracteres da tabela ASCII a partir de 128
+Aceita caracteres acentuados como á, õ, ç
+A linguagem é case sensitive em relação aos nomes
+Nomes especiais como $this não podem ser usados
+//
+Recomendações para dar nomes
+
+Tente dar nomes claros e de fácil identificação
+Evite nomes muito curtos ou muito longos
+Defina um padrão e siga em todo o projeto
+Para variáveis, dê preferência a letras minúsculas
+Para constantes, dê preferência a letras maiúsculas
+Use camelCase para métodos e atributos
+Use SNAKE_CASE para nomear constantes
+
+$nomeCompletoCliente = "Camel Case";
+$telefone_contato_fornecedor = "Snake Case";
