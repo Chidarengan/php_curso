@@ -1,0 +1,59 @@
+versao facil:
+() parenteses
+** (potencia)
+*, / , % (multiplicadores e divisores)
++ , - (soma e subtraçao)
+
+pode mudar a ordem de precedencia colocando parenteses
+
+50 / 2 + 3 ** 2
+é diferente de 
+50 / (2+3) ** 2 (priorizando os perenteses aqui)
+
+-----------
+versao longa do gpt
+
+Operadores de incremento/decremento:
+
+++ (pré e pós incremento)
+-- (pré e pós decremento)
+Operadores de exponenciação:
+
+** (potência)
+Operadores de multiplicação, divisão e módulo:
+
+* (multiplicação)
+/ (divisão)
+% (módulo)
+Operadores de adição e subtração:
+
++ (adição)
+- (subtração)
+Operadores de concatenação:
+
+. (concatenação de strings)
+Operadores de comparação:
+
+== (igualdade)
+!= (diferente)
+=== (identidade)
+!== (não identidade)
+<, >, <=, >= (menor, maior, menor ou igual, maior ou igual)
+Operadores lógicos:
+
+&& (E lógico)
+|| (OU lógico)
+Operadores de atribuição:
+
+= (atribuição)
++=, -=, *=, /=, %= (atribuição com operadores)
+Operadores bit a bit:
+
+&, |, ^ (AND, OR, XOR bit a bit)
+<<, >> (deslocamento de bits à esquerda/direita)
+Operadores de tipo:
+
+instanceof (verificação de instância)
+Lembre-se de que quando você tem operadores com a mesma precedência, a avaliação acontece da esquerda para a direita, com exceção de alguns casos específicos (como a exponenciação **, que é avaliada da direita para a esquerda).
+
+Se você precisar de controle maior sobre a ordem de execução, pode sempre usar parênteses () para garantir que as operações sejam realizadas na sequência que você deseja.
