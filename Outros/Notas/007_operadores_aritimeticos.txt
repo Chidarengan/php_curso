@@ -1,0 +1,16 @@
+quanto é em php "2"+"2"
+apesar de ser string, ao colocar o + ele entende que é um operador aritmetico de adição.
+e vai te responder 4, ele pega a string e tenta converter pra numero
+
+pra juntar as duas strings tem que por o ponto, que faz a concatenação
+
+
+o php atualmente consegue somar "10 dolares" + "101 dalmatas" ignorando as strings e somando apenas os numeros 111 (eu testei mas n deu mto certo)
+
+ Operadores:
+    adição +
+    subtraçao -
+    multiplicação *
+    divisão real / (com virgulas)
+    modulo % (resto da divisao inteira)
+    exponenciação ** 

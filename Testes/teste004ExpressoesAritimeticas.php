@@ -31,6 +31,7 @@
     echo ("teste com round()\n\n")
         $r = round((253)/3);
         echo ("A Resposta é $r\n\n");
+        // n sei pq ta mostrando erro aqui
         
         $r = round((254)/3);
         echo ("A Resposta é $r\n\n");
