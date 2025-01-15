@@ -1,3 +1,4 @@
 compostos : array object
+ARRAY É UMA VARIAVEL QUE CABE VARIOS VALORES
 
 especiais: null resource callabe mixed

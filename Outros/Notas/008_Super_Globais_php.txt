@@ -1,0 +1,13 @@
+superglobais
+$_GET gera um array associativo com todas as variaveis passadas por parametro em uma url
+$_POST pega dados de formularios enviados em metodo post
+$_REQUEST junta um pouco do get e do post
+
+$_COOKIE aceita os cookies ( voce define por qnto tempo essas informaçoes ficam salvas)
+$_FILES (pega os arquivos enviados)
+$_SESSION variaveis de sessao sejam utilizaveis, nao sendo perdido entre periodos de utilizaçao de pagina (tipo sessao de rpg)
+
+$_ENV ( de enviroment)variaveis de ambiente do servidor
+$_SERVER ?
+$GLOBALS (nao tem underline) mostra todas as outras superglobais
+
