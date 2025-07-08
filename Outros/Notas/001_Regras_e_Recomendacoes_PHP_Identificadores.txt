@@ -6,7 +6,7 @@ Aceita caracteres [a-z], [A-Z], [0-9] e [_]
 Aceita caracteres da tabela ASCII a partir de 128
 Aceita caracteres acentuados como á, õ, ç
 A linguagem é case sensitive em relação aos nomes
-Nomes especiais como $this não podem ser usados
+Nomes especiais como $this não podem ser usados como variáveis
 //
 Recomendações para dar nomes
 
